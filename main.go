@@ -1,1 +1,2 @@
-func deniz();
+package main
+func main() {}
